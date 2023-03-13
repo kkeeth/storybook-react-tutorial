@@ -14,7 +14,7 @@ body {
   font-style: 400;
   color: #333;
   font-size: 16px;
-  background-color: #26c6da;
+  background-color: #008080;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
@@ -122,7 +122,8 @@ textarea {
   line-height: 20px;
   font-family: "Nunito Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-style: 400;
-  padding: 0.75rem 0;
+  padding: 0.75rem 1rem;
+  margin-top: 0;
   line-height: 1.5rem !important;
   border: none;
   border-radius: 0;
@@ -327,7 +328,7 @@ textarea {
 }
 
 .list-item.TASK_ARCHIVED input[type="text"] {
-  color: #a0aec0;
+  color: #4a5568;
   text-decoration: line-through;
 }
 
